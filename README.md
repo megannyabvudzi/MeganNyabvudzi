@@ -1,16 +1,14 @@
-## Hi there 👋
-
+## Hi, I'm Megan Nyabvudzi 👋
+🎓Computer Science Graduand | 📊Aspring Data Analyst
 <!--
-**megannyabvudzi/MeganNyabvudzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Skills  
+- Python (Pandas, Matplotlib, Seaborn)  
+- SQL  
+- Power BI & Tableau  
 
-Here are some ideas to get you started:
+## About Me
+I love solving problems, uncovering actionable insights from data, and I bring passion and innovation to every project. Currently building my portfolio with exciting data projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Contact  
+[LinkedIn](https://linkedin.com/in/megannyabvudzi) | Email: megan.nyabvudzi@gmail.com 
 -->
